@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/nvidia/workspace/Driver'
+make: Leaving directory '/home/nvidia/workspace/Driver'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
